@@ -188,7 +188,7 @@ MIT License - feel free to use this tool for any purpose.
 
 ## Author
 
-Your Name - your.email@example.com
+Dougie Richardson
 
 ## Acknowledgments
 
